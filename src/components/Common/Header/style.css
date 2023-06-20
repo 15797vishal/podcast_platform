@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+    position: sticky;
+} 
+.links{
+    display: flex;
+    justify-content: center;
+    gap: 1.6rem;
+    align-items: center;
+    color: rgb(174, 165, 165); 
+    text-decoration: none;
+}
+.links a{
+    color: white;
+    text-decoration: none !important;
+    font-weight: 700;
+    font-size: 17px;
+}
+.links a:hover{
+    color: aqua;
+    transition: 0.4sec;
+}
+.gradient{
+    position: absolute;
+    width: 820px;
+    height: 100px;
+    margin:  2 auto;
+    background: #48e107;
+    filter: blur(100px);
+    z-index: -2;
+}
+.active{
+    color: rgb(18, 227, 46) !important;
+}

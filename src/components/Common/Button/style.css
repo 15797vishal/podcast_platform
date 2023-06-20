@@ -1,0 +1,18 @@
+.custombtn{
+    color: #eee3e3;
+    background: rgb(66, 55, 55);
+    border: 2px solid greenyellow;
+    padding: 0.8rem;
+    border-radius: 16px;
+    width: 96%;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 400;    
+} 
+
+.custombtn:hover{
+    color: white;
+    transition: all 0.4sec;
+    background: #746363; 
+   
+}

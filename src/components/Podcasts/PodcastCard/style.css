@@ -1,0 +1,44 @@
+.podcadcard{ 
+    margin-top: 20px;
+    width: 224px;
+    height: 249px;
+    left: 677px;
+    top: 409px;
+    background: transparent;
+    border-radius: 28px;
+    padding: 0.4rem;
+    margin: 10px;
+    color: white;
+}
+.podcastFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: wrap; 
+    opacity: 0.9; 
+    cursor: pointer;
+}  
+.podcadcard:hover{
+    opacity: 1;;
+    transition: all 0.3s;
+}
+ 
+.dispImagePod{
+    width: 100%;
+    height: 240px;
+    border-radius: 1.2rem;
+    gap: 1.3rem;
+
+} 
+.dispImagePod:hover{
+    transition: all 0.3s;
+    opacity: 2;
+}
+.podcastTitle{
+    color: white;
+    text-decoration: none !important;
+
+} 
+a{
+    text-decoration: none !important;
+}

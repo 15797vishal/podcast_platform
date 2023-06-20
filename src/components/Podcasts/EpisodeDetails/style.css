@@ -1,0 +1,22 @@
+.custombtn episode-btn{
+    color: #eee3e3;
+    background: rgb(155, 133, 133);
+    border: 2px solid #91e80c;
+    padding: 0.8rem;
+    border-radius: 47px;
+    width: 14%;
+    margin: 10px;
+    font-size: 14px;
+    font-weight: 800;
+    text-align: center
+
+}
+/* this is about the episode display page */
+.wrapperdiv episoedisp{
+    text-align: left;
+    justify-content: left;
+    display: flex;
+    align-items: left;
+    
+  
+  }

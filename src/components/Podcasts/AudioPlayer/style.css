@@ -1,0 +1,40 @@
+.customAudioplayer{
+    width: 80vw;
+    bottom: 0;;
+    padding: 1rem 0.2rem;
+    display: flex;
+    justify-content: flex-start;
+    gap: 0.8rem;
+    margin-top: 8px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    padding-left: 50px;
+}  
+ 
+.imgs{
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+} 
+.duration-range{
+    filter: hue-rotate(25deg);
+    width: 50%; 
+    gap: 0.8rem;
+}
+
+.customAudioDura{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    width: 53%;
+}
+.volume-range{ 
+    
+    filter: hue-rotate(25deg);
+    width: 20%;
+}
+
+
+
